@@ -52,34 +52,34 @@
 }
 .bg1
 {
-    background-image: url("/media/messi.jpg");
+    background-image: url("/NewsPaper/media/messi.jpg");
     background-size: 100% 100%;
 }
 .bg2
 {
-    background-image: url("/media/ronaldo.jpg");
+    background-image: url("/NewsPaper/media/ronaldo.jpg");
     background-size: 100% 100%;
 }
 .bg3
 {
-    background-image: url("/media/ozil.jfif");
+    background-image: url("/NewsPaper/media/ozil.jfif");
     background-size: 100% 100%;
 }
 .bg4
 {
-    background-image: url("/media/sancho.jfif");
+    background-image: url("/NewsPaper/media/sancho.jfif");
     background-size: 100% 100%;
 }
 .bg5
 {
     
-    background-image: url("/media/sw.jfif");
+    background-image: url("/NewsPaper/media/sw.jfif");
     background-size: 100% 100%;   
 }
 .bg6
 {
     
-    background-image: url("/media/kh.png");
+    background-image: url("/NewsPaper/media/kh.png");
     background-size: 100% 100%;   
 }
 #empty
